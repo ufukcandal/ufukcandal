@@ -1,4 +1,2 @@
-Selamlar ben Ufukcan Dal, Bilişim Güvenliği Teknolojileri mevzunu .Net alanında yazılım geliştiren başlangıç seviyesinde bir Web geliştiricisiyim.
-
-
-Siber güvenliğe olan ilgimden dolayı güvenli Web yazılım geliştirme ve zararlı yazılım geliştirme alanında tecrübeliyim.
+I am a graduate of Beykoz University information security technologies, I develop websites with Asp.net Framework MVC. I do web and local network penetration tests.
+https://ufukcandal.com
